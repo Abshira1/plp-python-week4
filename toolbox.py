@@ -12,6 +12,6 @@ def greet(name, greeting="Hello"):
 print(double(7))
 print(double(10))
 print(is_pass(80))
-print(is_pass(80))
+print(is_pass(20))
 print(greet("Amina"))
 print(greet("Brian", "Habari"))
